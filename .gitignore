@@ -1,0 +1,23 @@
+# MIT OCW original materials
+materials/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / editor temporary files
+.vscode/
+.idea/
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+
+# Notepad++ backup files
+*.bak
