@@ -10,8 +10,11 @@ My solutions and learning notes for MIT OpenCourseWare 6.0001.
 
 [assignments source](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/assignments/)
 
+**Correspondence Relationship** : every two lecture corresponds 1 problem set
+> For example, lecture 1 plus lecture 2 equals PS0
+
 - [x] [Problem Set 0](./ps0)
-- [ ] Problem Set 1
+- [x] [Problem Set 1](./ps1)
 - [ ] Problem Set 2
 - [ ] Problem Set 3
 - [ ] Problem Set 4
@@ -26,5 +29,8 @@ My solutions and learning notes for MIT OpenCourseWare 6.0001.
 
 # PS
 
-- This repositiry doesn't contain the source of MIT 6.0001's 6 Problem Set.
+- This repositiry doesn't contain the source of MIT 6.0001's 6 Problem Set
 - Relevant files and sources are listed in segment README.md
+- All codes were typed by myself without any AI assisting
+
+*This study begins in October 6~7, 2026*
