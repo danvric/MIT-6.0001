@@ -8,4 +8,4 @@
 
 > did in October 6, 2026 first. redid in October 7, 2026
 
-*Appologize: Part C is fundamentally hard, I used AI to help me rewrite the main simulation code block.However, It's based on my source codes.
+*Appologize: Part C is fundamentally hard, I used AI to help me rewrite the main simulation code block.However, It's based on my source codes.*
